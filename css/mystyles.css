@@ -1,0 +1,74 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../assets/img/background_pink_watercolor.jpg);
+}
+.nav{
+    float:right;
+    padding-right: 10px;
+}
+.head{
+    font-size: 15px;
+    font-weight: bold;
+    color: #e38294;
+}
+.common{
+    border: 2px transparent;
+    position: absolute;
+}
+.header{
+   top: 5px; 
+   left: 5px;
+   right: 5px;
+   height: 100px;
+}
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 180px;
+    bottom: 39px;
+}
+.rightmenu{
+    top: 114px;
+    left: 194px;
+    right: 5px;
+    bottom: 39px;
+}
+.footer{
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 25px;
+    font-size: 12px;
+    color: gray;
+    text-align: center;
+}
+li{
+    font-size: 15px;
+    font-weight: 100;
+    color: black;
+}
+iframe{
+    padding: 5px;
+    padding-left: 170px;
+    border: 0;
+}
+.pad{
+    padding: 5px;
+    padding-left: 170px;
+}
+h1{
+    color: #e38294;
+}
+a:visited{
+    color: #da5870;
+}
+a{
+    color: #E38294;
+}
+a:hover{
+    font-size: 18px;
+    font-weight: bold;
+}
+.back{
+    background-color: #e38294;
+}
